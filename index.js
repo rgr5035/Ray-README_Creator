@@ -111,7 +111,7 @@ inquirer
           `${data.license}` +
           " licensed.\n\n" +
           "## Questions\n\n" +
-          "For more information about this application, please feel free to contact me via the links below.\n\n" +
+          "For more information about this application, or if you have any additional questions, do not hesitate to reach out to me via GitHub or E-mail.\n\n" +
           "- [Github](https://www.github.com/" +
           `${data.github})\n` +
           "- [Email](mailto:" +
