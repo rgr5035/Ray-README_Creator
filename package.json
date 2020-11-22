@@ -1,15 +1,28 @@
 {
-  "name": "static-site",
+  "name": "readme-creator",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application will be used for developers to create a clean and simple README file for use on their web applications.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Robby Ray",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^6.5.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgr5035/Ray-README_Creator.git"
+  },
+  "keywords": [
+    "readme",
+    "creator"
+  ],
+  "bugs": {
+    "url": "https://github.com/rgr5035/Ray-README_Creator/issues"
+  },
+  "homepage": "https://github.com/rgr5035/Ray-README_Creator#readme"
 }
