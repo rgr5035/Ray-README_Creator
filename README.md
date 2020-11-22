@@ -30,6 +30,8 @@ Step 5: Answer all questions according to their prompts, and once entered, see t
 
 ## Usage
 
+Please reference this video for a how-to demo of the application: https://drive.google.com/file/d/1AExmLWwlaZ_g4WLss0tdAx1lgMNrq92d/view
+
 The user will need to install Inquirer.js npm package to their repo before initializing the application functions. This will enable the user to answer the required questions and dynamically create their answers into the README file.
 
 For an example of this application's usage, please open the 'README-Creator-TEST' file in this repository. 
