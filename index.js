@@ -27,7 +27,7 @@ inquirer
             name: "usage", 
          },
          {
-            type: "input",
+            type: "list",
             message: "Please choose the license for the project.",
             name: "license",
             choices: ["MIT", "Apache 2.0", "GNU GPLv3"],
